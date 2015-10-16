@@ -4,5 +4,6 @@
 
 main()
     {
-        printf("Hello World \n");
+        printf("Hello World! \n");
+        printf("New line for a new commit \n");
     }
